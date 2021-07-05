@@ -1,0 +1,10 @@
+com\bw\kafka\IngestionExecutor.class
+com\bw\kafka\ProducerController.class
+com\bw\kafka\UserConsumer.class
+com\bw\kafka\common\Parsable.class
+com\bw\kafka\config\LoadConfig.class
+com\bw\kafka\BaseConsumer.class
+com\bw\kafka\common\HBaseWriter.class
+com\bw\kafka\UserConsumer$UserHBaseParser.class
+com\bw\kafka\Driver.class
+com\bw\kafka\common\Persisteable.class
